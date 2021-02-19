@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://jaimefusterf.github.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Jaime Fúster\'s Blog',
+  subtitle: 'Engineering, Life, Music',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,15 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
+    name: 'Jaime Fúster de la Fuente',
+    photo: '/IMG_2980.JPG',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '',
+      email: 'jaimefusterf@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'jaimefusterf',
       rss: '',
       vkontakte: '',
       linkedin: '#',
