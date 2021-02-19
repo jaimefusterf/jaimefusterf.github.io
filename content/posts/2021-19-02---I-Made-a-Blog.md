@@ -1,5 +1,5 @@
 ---
-title: I Made a Blog!
+title: I made a blog!
 date: "2021-19-02"
 template: "post"
 draft: false

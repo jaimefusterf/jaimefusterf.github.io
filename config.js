@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Jaime Fúster de la Fuente',
-    photo: '/IMG_2980.JPG',
+    photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: 'jaimefusterf@gmail.com',
