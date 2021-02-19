@@ -21,11 +21,11 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-c783365a494b8524316b.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-b3dcf8930ccddc685b74.js
+  Cache-Control: public, max-age=31536000, immutable
 /643651a62fb35a9bb4f20061cb1f214a352d7976-ce8e5aa09a612cd1c211.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-template-js-b78ce94be3d4b38be191.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-page-template-js-b3dcf8930ccddc685b74.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-tag-template-js-35d1cf50446e0e3118fa.js
   Cache-Control: public, max-age=31536000, immutable
@@ -100,6 +100,17 @@
   Link: </component---src-templates-not-found-template-js-94ad5a8ab9b3ed861a02.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/pages/about/
+  Link: </webpack-runtime-e94ff1fc9c42068ae700.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </framework-53e44976c26f3fb72db8.js>; rel=preload; as=script
+  Link: </532a2f07-08e85c4d9ba56e661149.js>; rel=preload; as=script
+  Link: </app-d5c4783eb1bffd904525.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-70d96876ca3c8e3c469a.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-b3dcf8930ccddc685b74.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/perfecting-the-art-of-perfection
   Link: </webpack-runtime-e94ff1fc9c42068ae700.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -112,17 +123,6 @@
   Link: </component---src-templates-post-template-js-b78ce94be3d4b38be191.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/about/
-  Link: </webpack-runtime-e94ff1fc9c42068ae700.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </framework-53e44976c26f3fb72db8.js>; rel=preload; as=script
-  Link: </532a2f07-08e85c4d9ba56e661149.js>; rel=preload; as=script
-  Link: </app-d5c4783eb1bffd904525.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-70d96876ca3c8e3c469a.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-b3dcf8930ccddc685b74.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /pages/contacts/
   Link: </webpack-runtime-e94ff1fc9c42068ae700.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
