@@ -36,7 +36,7 @@ module.exports = {
       github: 'jaimefusterf',
       rss: '',
       vkontakte: '',
-      linkedin: 'jaime-fúster-de-la-fuente',
+      linkedin: 'jaimefusterfuente',
       instagram: '',
       line: '',
       gitlab: '',
